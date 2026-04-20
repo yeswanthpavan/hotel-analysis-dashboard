@@ -32,7 +32,7 @@ Using Excel, I created pivot tables and interactive dashboards to understand tre
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard](dashboard preview.png)
+![Dashboard](dashboard.png)
 
 ---
 
